@@ -1,0 +1,10 @@
+Compile:
+
+  1. Adjust Makefile
+  2. Issue 'make'
+  3. If no errors occur, a OCaml toplevel interactive interpreter picocaml
+     should have been built in the project directory; start it via './picocaml'
+
+NOTICE: This code is portable in the sense that it works on my box. If you 
+experience any difficulties, feel free to adjust the code to suit your 
+particular needs.
